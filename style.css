@@ -8,7 +8,7 @@
   bottom: 0;
   left: 0;
   right: 0;
-  background: rgba(0, 0, 0, 0.7);
+  background: rgba(13, 110, 253, 0.7); /* Semi-transparent blue background */
   color: white;
   display: flex; /* Center text */
   align-items: center;
